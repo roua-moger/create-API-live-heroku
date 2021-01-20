@@ -1,4 +1,5 @@
-[
+{
+    "listings" : [
  {
   "id": "1000",
   "make": "Audi",
@@ -2099,4 +2100,4 @@
   "mileage": "8000",
   "seller_type": "private"
  }
-]
+]}
