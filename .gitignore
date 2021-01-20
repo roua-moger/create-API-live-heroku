@@ -1,7 +1,7 @@
-node_modules
-csvToJson.js 
-listings.csv 
-listings.js 
-contacts.csv 
-contacts.js 
+node_modules,
+csvToJson.js, 
+listings.csv, 
+listings.js, 
+contacts.csv, 
+contacts.js
 
